@@ -1,6 +1,6 @@
 fun main(args: Array<String>) {
     Out.Nest().introduce()
-    
+
     val outter = Out()
     val inner = outter.Inn()
 
